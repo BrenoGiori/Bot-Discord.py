@@ -1,5 +1,7 @@
 Básico que se deve saber enquanto o ReadMe não está pronto
+
 Utilizamos o FireBase Como banco de dados
+
 Utilizamos a API da Steam para verificarmos os SteamID64
 
 Arquivo .env contem
