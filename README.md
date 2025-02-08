@@ -10,8 +10,10 @@ Arquivo JSON para as credencias do FireBase
 
 Comandos basicos do bot
 Ticket -- Utiliza os Threads privados como canais de atendimento
+
 Registro -- Salva o SteamID64 no banco de dados, salva essa informação no documento que tem o guild_id como nome,
 logo um usuario pode ter os dados duplicadosse executar o comando em dois servidores diferentes, sim isso é ruim.
+
 Verify -- Puxa as informações que precisar do BD, como o Steam ID pelo Discord ID e vice-versa.
 
 Por hora é isso, futuramente vou fazer um ReadMe mais detalhado, infelizmente estou publicando isso precocemente e na pressa.
